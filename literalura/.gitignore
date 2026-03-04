@@ -33,6 +33,6 @@ build/
 .vscode/
 
 /target/
-/.idea/
+.idea/
 .env
 HELP.md
